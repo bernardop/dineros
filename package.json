@@ -1,0 +1,11 @@
+{
+  "name": "dineros",
+  "version": "0.1.0",
+  "description": "Lo que le debemos a los Parentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernardo Pacheco",
+  "license": "MIT"
+}
