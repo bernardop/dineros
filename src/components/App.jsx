@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <AppBar title='Dineros' showMenuIconButton={false} />
-      <div className={css(styles.textColor)}>
+      <div className={css(styles.container)}>
         Los dineros que debemos
       </div>
     </div>
@@ -14,8 +14,7 @@ const App = () => {
 };
 
 const styles = StyleSheet.create({
-    textColor: {
-        color: '#fff',
+    container: {
         padding: '25px'
     }
 });
